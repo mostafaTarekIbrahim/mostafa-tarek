@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1521033690 source:e:\lexical_analysal_1\main.cpp
+	<fstream>
+	<sstream>
+	<stdio.h>
+	"Reg_exp.h"
+	"Reg_def.h"
+	"Keywords.h"
+
+1520945735 source:e:\lexical_analysal_1\src\reg_exp.cpp
+	"Reg_exp.h"
+	<string>
+
+1520945694 e:\lexical_analysal_1\include\reg_exp.h
+	<string>
+
+1520967172 e:\lexical_analysal_1\reg_exp.h
+	<iostream>
+	<string>
+
+1521028903 source:e:\lexical_analysal_1\reg_exp.cpp
+	"Reg_exp.h"
+
+1521033702 source:e:\lexical_analysal_1\reg_def.cpp
+	"Reg_def.h"
+
+1521033412 e:\lexical_analysal_1\reg_def.h
+	<iostream>
+	<string>
+	<vector>
+
+1520967587 source:e:\lexical_analysal_1\keywords.cpp
+	"Keywords.h"
+
+1520967475 e:\lexical_analysal_1\keywords.h
+	<iostream>
+	<string>
+
+1520969697 source:e:\lexical_analysal_1\punctuation.cpp
+	"Punctuation.h"
+
+1520969614 e:\lexical_analysal_1\punctuation.h
+
